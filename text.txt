@@ -1,3 +1,4 @@
+
 URGENT !!!
 
 
@@ -90,7 +91,4 @@ EVALUACIÓ  GENERAL	Test de preguntes amb múltiple resposta sobre continguts TI
 	Learning MySQL development (2H)	MySQL Workbench	Exercicis USFlights (CAL ENTREGAR L'EXERCICI)		MySQL Server MacOS 10
 	Database Foundations: Core Concepts (2H)			- Us heu de descarregar també el mySQL Workbench. O en Xamp https://docs.google.com/document/d/1rjqXtz5c5W15-QrvTaF7z3L8wE9EVuZaEuDv7tdW794/edit?usp=sharing	MySQL Workbench
 				- Tutorial instal·lació Ubuntu o Debian:	Tutorial Ubuntu o Debian
-
- 
-Q aportacion
 
