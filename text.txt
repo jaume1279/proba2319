@@ -1,1 +1,4 @@
 primer fitxer del repositori
+
+
+changes demanats pel client
