@@ -1,4 +1,4 @@
-
+Q aportacion
 
 primer fitxer del repositori. Merely?? NO CHANGES?? NOOOOO!!! Yes, it is.
 
@@ -16,6 +16,7 @@ fw
 ef
 wef
 we
+Q aportacion
 fwe
 f
 f
@@ -24,7 +25,7 @@ gfergerv   egrevervre  f werer
 fger
  er
 
-er 
+er Q aportacion
 re
   
 
@@ -47,7 +48,7 @@ a
 e
 ae
 a
-
+Q aportacion
 Now we write consonants:
 
 fgf
@@ -70,7 +71,7 @@ gf
 	Course: Programming Foundations: Web Services (3H)	Postman		- Només Intro, Bloc 1 i 5	
 		REST Console			
 	Learn API Documentation with JSON and XML (1H)				
-	Learning Linux Command Line (2H)			- Si feu l'exercici de canviar els permissios d'un arxiu, si es fa correctament no surt cap missatge. Per tant haureu de comprovar els permissos de l'arxiu mitjançant la comanda: ls -l	
+	Learning Linux Command Q aportacionLine (2H)			- Si feu l'exercici de canviar els permissios d'un arxiu, si es fa correctament no surt cap missatge. Per tant haureu de comprovar els permissos de l'arxiu mitjançant la comanda: ls -l	
 	Create files and dirs (5 min)				
 	Create links to files and dirs (5 min)				
 	Copy files and dirs (6 min)				
@@ -82,11 +83,11 @@ EVALUACIÓ  GENERAL	Test de preguntes amb múltiple resposta sobre continguts TI
 					
 					
 3. SQL	Learning Relational Databases (3H)	MySQL Server	Exercicis creació  estructura de dades (CAL ENTREGAR L'EXERCICI)	- Exercicis per practicar (no cal lliurar-los):  	Exercicis MySQL
-	SQL syntax overview (5 min)			- Per instal·lar MySQL Server, fes servir el tutorial corresponent al teu sistema operatiu:  	MySQL Server W10
+	SQL syntax overview (5 min)			- Per instal·lar MySQL Server, fes servir el tutorial corresponent al teu sistema operatiu:  Q aportacion	MySQL Server W10
 	Learning MySQL development (2H)	MySQL Workbench	Exercicis USFlights (CAL ENTREGAR L'EXERCICI)		MySQL Server MacOS 10
 	Database Foundations: Core Concepts (2H)			- Us heu de descarregar també el mySQL Workbench. O en Xamp https://docs.google.com/document/d/1rjqXtz5c5W15-QrvTaF7z3L8wE9EVuZaEuDv7tdW794/edit?usp=sharing	MySQL Workbench
 				- Tutorial instal·lació Ubuntu o Debian:	Tutorial Ubuntu o Debian
 
  
-
+Q aportacion
 
